@@ -1,0 +1,2 @@
+# pixelorama-st
+store
